@@ -3,9 +3,6 @@ elevator interface
 
 presentation page
 https://abejr17.github.io/hw1_CS3366/
- 
-github page
-https://github.com/abejr17/hw1_CS3366
 
 youtube video
 https://youtu.be/yBuuer4iJVM
