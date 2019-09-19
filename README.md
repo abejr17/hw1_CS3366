@@ -1,12 +1,14 @@
 # hw1_CS3366
 elevator interface
 
+Get a C:
+
 ![](https://github.com/abejr17/hw1_CS3366/blob/master/elevatrTech.jpg)
 
 This is the elevator in the electrical engineering building at Texas Tech University
 
 
-![](https://github.com/abejr17/hw1_CS3366/blob/master/hw1.esparza.gif)
+![](elevatrTech1.GIF)
 
 
 Current issues with interface:
@@ -17,6 +19,7 @@ Ex: The open and close door buttons are not in the same grouping. Same goes for 
 
 3. The emergency phone is not even in the same area as the main interface. Its way lower. I did not realize that until I got home and saw it on my gif.
 
+Get a B:
 
 Common uses of an elevator: 
 1. It is more convenient to take if there are multiple levels to a floor.
@@ -53,3 +56,9 @@ The following three sketches(top right and both bottom sketches)show that a menu
 The reason this is a better design is the organization and no misleading button indicators. For example, if I click on the menu button "door" I will then, only have options therafter that deal with the door via opening and closing the door.
 I think this idea came about because the three groupings of the originally elevator up above are not grouped together with buttons that have similar features.
 Seems like you really wouldn't make too many errors in this elevator with only two floors but imagine this original interface on a elevator that is in a 50 floor building. Now that setup would seem a little weird if it was a triangle group interface.
+
+Get a A:
+
+![](hw1.Esparza.GIF)
+
+![](elevatorDemo.pptx)
