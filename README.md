@@ -1,6 +1,16 @@
 # hw1_CS3366
 elevator interface
 
+presentation page
+https://abejr17.github.io/hw1_CS3366/
+ 
+github page
+https://github.com/abejr17/hw1_CS3366
+
+youtube video
+https://youtu.be/yBuuer4iJVM
+ 
+
 Get a C:
 
 ![](https://github.com/abejr17/hw1_CS3366/blob/master/elevatrTech.jpg)
@@ -61,4 +71,5 @@ Get a A:
 
 ![](hw1.Esparza.GIF)
 
-![](elevatorDemo.pptx)
+Added extra features from my original sketch. To show the user what floor they currently on or an animation that the door is indeed closing.
+
